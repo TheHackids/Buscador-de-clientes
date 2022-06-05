@@ -1,0 +1,20 @@
+.clients-box{
+    text-align: center;
+}
+
+.column-list{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(248, 178, 47);
+}
+
+.column-list-one{
+    padding-left: 10px;
+    padding-right: 50px;
+}
+
+.column-list-two{
+    padding-left: 50px;
+    padding-right: 10px;
+    
+}

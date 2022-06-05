@@ -1,0 +1,19 @@
+.search {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.search--center {
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://img.freepik.com/vector-gratis/patron-mosaico-arabesco-como-origen-etnico-estilo-arabe-tela-costuras-mosaico-marroqui-islamico_101884-1361.jpg");
+    background-repeat:repeat;
+}
+
+.search--top {
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+}

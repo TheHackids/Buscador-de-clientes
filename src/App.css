@@ -1,0 +1,9 @@
+.mensaje-inicial{
+    text-align: center;
+    font-family: "Lucida Console";
+}
+
+.loading-image{
+    display:flex;
+    justify-content: center;
+}
